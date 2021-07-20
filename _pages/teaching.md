@@ -17,6 +17,7 @@ Teaching
   * Responsibility:
     * Design, and prepare the materials of the in-class exercise. And instruct and Q&A during the class.
     * Lead the paper reading discussion.
+  * [Students' feedback](https://drive.google.com/file/d/1YMLzbd6gxM-9us67Ppbd1o_0ZtjuprSU/view?usp=sharing)
 * [Graduate Instructor Certification](https://maxxbw.github.io/files/GI_Certification.pdf), Singapore Management University, Singapore, 2019.
 
 
@@ -25,6 +26,6 @@ Supervision
 
 With the support of Prof. Lo, I am honored to mentor/collaborate the following students.
 
-- Zhang Ting, PhD
+- Ting Zhang, PhD
 - Chengran Yang, PhD
 - Jieke Shi, PhD

@@ -17,12 +17,6 @@ author_profile: true
 
 
 
-# Talks
-* **_Why Reinventing the Wheels? An Empirical Study on Library Reuse and Re-implementation_**, [ICSE 2020 Journal First, 10 Jul 2020, I21-Version Control and Programming](https://2020.icse-conferences.org/details/icse-2020-Journal-First/8/Why-Reinventing-the-Wheels-An-Empirical-Study-on-Library-Reuse-and-Re-implementation)
-* **_Benchmarking Example-Based Program
-Transformation Inference Tools_**, Workshop on Program Transformation, 7 Dec 2020, Seminar Room 3-1, School of Information Systems, Singapore Management University, 80 Stamford Road, Singapore
-
-
 # Publications
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.sg/citations?user=rxslINgAAAAJ&hl=en).
@@ -62,3 +56,16 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * Workshop Papers
     * 2019
         * [W1] Amirreza Shirani, **Bowen Xu**, David Lo, Thamar Solorio and Mohammad Amin Alipour. “Question Relatedness on Stack Overflow: The Task, Dataset, and Corpus-inspired Model”. AAAI 2019 Reasoning and Complex QA Workshop (AAAI-RCQA).
+
+Professional Service
+======
+* Journal referee, ACM Transactions on Information Systems (TOIS), 2020.
+* Journal referee, Journal of Systems and Software (JSS), 2019.
+* External Reviewer for the 19th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), 2019.
+* External Reviewer for the 2nd International Workshop on Software Analytics (SWAN), 2016.
+* External Reviewer for the 2016 Annual Conference on Software Analysis, Testing and Evolution (SATE), 2016.
+
+# Talks
+* **_Why Reinventing the Wheels? An Empirical Study on Library Reuse and Re-implementation_**, [ICSE 2020 Journal First, 10 Jul 2020, I21-Version Control and Programming](https://2020.icse-conferences.org/details/icse-2020-Journal-First/8/Why-Reinventing-the-Wheels-An-Empirical-Study-on-Library-Reuse-and-Re-implementation)
+* **_Benchmarking Example-Based Program
+Transformation Inference Tools_**, Workshop on Program Transformation, 7 Dec 2020, Seminar Room 3-1, School of Information Systems, Singapore Management University, 80 Stamford Road, Singapore
