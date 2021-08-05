@@ -15,9 +15,11 @@ I am currently a PhD candidate in the 4th year from the [School of Computing and
 Research Interests
 ======
 
-<img src="https://raw.githubusercontent.com/maxxbw/maxxbw.github.io/master/research_interests.jpg" width="450" height="400" />
+<!-- <img src="https://raw.githubusercontent.com/maxxbw/maxxbw.github.io/master/research_interests.jpg" width="450" height="400" /> -->
 
 <!--![Intelligent Software Analytics](https://raw.githubusercontent.com/maxxbw/maxxbw.github.io/master/research_interests.jpg)-->
+
+### Data Science for Software Engineering - From data to knowledge, from knowledge to intelligence.
 
 * **Discovery**
   - Code Reuse and Re-implementation
